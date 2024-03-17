@@ -1,0 +1,7 @@
+Django==4.2.3
+django-cors-headers==4.2.0
+django-environ==0.10.0
+djangorestframework==3.14.0
+jwt==1.7.1
+asgiref==3.7.2
+sqlparse==0.4.2
